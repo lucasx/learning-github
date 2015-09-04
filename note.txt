@@ -1,0 +1,2 @@
+This is a sample repo I created for teaching myself
+how to use github.

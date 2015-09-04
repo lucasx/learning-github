@@ -1,0 +1,8 @@
+This is a sample repo I created for teaching myself
+how to use github with Windows.
+
+Goals:
+-commits DONE
+-branch functionality
+-pull requests
+-publish?
